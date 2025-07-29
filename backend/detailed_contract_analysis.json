@@ -1,0 +1,132 @@
+{
+  "analysis_metadata": {
+    "contract_file": "contract.pdf",
+    "analysis_date": "2025-07-30 00:28:02",
+    "model_used": "Legal-BERT + Enhanced Rule-Based Analysis"
+  },
+  "contract_overview": {
+    "contract_type": "Service Agreement",
+    "parties": [
+      "This Agreement is made between Party A (“Service Provider”) and Party B (“Client”) as of the"
+    ]
+  },
+  "risk_assessment": {
+    "total_clauses": 12,
+    "risky_clauses": 1,
+    "non_risky_clauses": 11,
+    "risk_percentage": 8.33,
+    "overall_risk_level": "MINIMAL",
+    "risk_description": "very safe with minimal concerns",
+    "is_contract_risky": false
+  },
+  "detailed_layman_summary": "📋 **CONTRACT TYPE**: This is a Service Agreement.\n👥 **PARTIES**: This Agreement is made between Party A (“Service Provider”) and Party B (“Client”) as of the\n\n✅ **OVERALL ASSESSMENT**: This contract is VERY SAFE WITH MINIMAL CONCERNS.\n📊 **RISK BREAKDOWN**: Out of 12 total clauses, 1 are risky (8.33%) and 11 are standard.\n✅ **SAFETY LEVEL**: This contract appears to be safe with standard terms. Basic review should be sufficient.\n\n🚨 **SPECIFIC CONCERNS EXPLAINED**:\n\n**Risk #1: Liability Waiver** (Clause 6)\n🔍 **What it means**: You are giving up your right to hold the other party responsible if something goes wrong.\n⚠️ **Why it's risky**: Even if they cause damage through negligence or mistakes, you cannot seek compensation.\n💥 **Potential impact**: You could lose money or suffer damages with no legal recourse.\n\n💡 **WHAT YOU SHOULD DO**:\n1. 📖 **Read Carefully**: Make sure you understand all terms\n2. ❓ **Ask Questions**: Clarify anything unclear with the other party\n3. 📋 **Keep Records**: Save copies of all signed documents",
+  "specific_risk_analysis": [
+    {
+      "clause_number": 6,
+      "clause_text": "Excessive Liability Waiver (Risky) The Client agrees to waive any and all claims against the Service Provider, regardless of the cause or extent of damages. 6",
+      "confidence": 98.56,
+      "risk_type": "Liability Waiver",
+      "what_it_means": "You are giving up your right to hold the other party responsible if something goes wrong.",
+      "why_its_risky": "Even if they cause damage through negligence or mistakes, you cannot seek compensation.",
+      "potential_impact": "You could lose money or suffer damages with no legal recourse."
+    }
+  ],
+  "clause_breakdown": [
+    {
+      "clause_number": 1,
+      "clause_text": "Sample Service Agreement This Agreement is made between Party A (“Service Provider”) and Party B (“Client”) as of the Effective Date. 1",
+      "full_clause_text": "Sample Service Agreement This Agreement is made between Party A (“Service Provider”) and Party B (“Client”) as of the Effective Date. 1",
+      "risk_classification": "non-risky",
+      "confidence_percentage": 99.64,
+      "risk_score": 0
+    },
+    {
+      "clause_number": 2,
+      "clause_text": "Governing Law (Standard) This Agreement shall be governed by and construed in accordance with the laws of the State of New York. 2",
+      "full_clause_text": "Governing Law (Standard) This Agreement shall be governed by and construed in accordance with the laws of the State of New York. 2",
+      "risk_classification": "non-risky",
+      "confidence_percentage": 99.78,
+      "risk_score": 0
+    },
+    {
+      "clause_number": 3,
+      "clause_text": "Confidentiality (Standard) Both parties agree to maintain the confidentiality of any proprietary information shared during the term of this Agreement. 3",
+      "full_clause_text": "Confidentiality (Standard) Both parties agree to maintain the confidentiality of any proprietary information shared during the term of this Agreement. 3",
+      "risk_classification": "non-risky",
+      "confidence_percentage": 99.62,
+      "risk_score": 0
+    },
+    {
+      "clause_number": 4,
+      "clause_text": "Entire Agreement (Standard) This document represents the entire agreement between the parties and supersedes any prior understandings or agreements. 4",
+      "full_clause_text": "Entire Agreement (Standard) This document represents the entire agreement between the parties and supersedes any prior understandings or agreements. 4",
+      "risk_classification": "non-risky",
+      "confidence_percentage": 99.74,
+      "risk_score": 0
+    },
+    {
+      "clause_number": 5,
+      "clause_text": "Termination with Unilateral Notice (Risky) The Service Provider may terminate this Agreement at any time without cause by providing 24-hour notice to the Client. 5",
+      "full_clause_text": "Termination with Unilateral Notice (Risky) The Service Provider may terminate this Agreement at any time without cause by providing 24-hour notice to the Client. 5",
+      "risk_classification": "non-risky",
+      "confidence_percentage": 99.46,
+      "risk_score": 0
+    },
+    {
+      "clause_number": 6,
+      "clause_text": "Excessive Liability Waiver (Risky) The Client agrees to waive any and all claims against the Service Provider, regardless of the cause or extent of damages. 6",
+      "full_clause_text": "Excessive Liability Waiver (Risky) The Client agrees to waive any and all claims against the Service Provider, regardless of the cause or extent of damages. 6",
+      "risk_classification": "risky",
+      "confidence_percentage": 98.56,
+      "risk_score": 1
+    },
+    {
+      "clause_number": 7,
+      "clause_text": "No Right to Sue (Risky) The Client agrees not to initiate or join any legal action against the Service Provider under any circumstance. 7",
+      "full_clause_text": "No Right to Sue (Risky) The Client agrees not to initiate or join any legal action against the Service Provider under any circumstance. 7",
+      "risk_classification": "non-risky",
+      "confidence_percentage": 93.72,
+      "risk_score": 0
+    },
+    {
+      "clause_number": 8,
+      "clause_text": "Non-compete for 5 Years (Risky) The Client shall not engage in any competing business for a period of five (5) years post-termination within any jurisdiction. 8",
+      "full_clause_text": "Non-compete for 5 Years (Risky) The Client shall not engage in any competing business for a period of five (5) years post-termination within any jurisdiction. 8",
+      "risk_classification": "non-risky",
+      "confidence_percentage": 99.58,
+      "risk_score": 0
+    },
+    {
+      "clause_number": 9,
+      "clause_text": "Arbitrary Jurisdiction (Risky) Any dispute shall be resolved exclusively in the courts of a jurisdiction selected solely by the Service Provider. 9",
+      "full_clause_text": "Arbitrary Jurisdiction (Risky) Any dispute shall be resolved exclusively in the courts of a jurisdiction selected solely by the Service Provider. 9",
+      "risk_classification": "non-risky",
+      "confidence_percentage": 99.54,
+      "risk_score": 0
+    },
+    {
+      "clause_number": 10,
+      "clause_text": "Data Sharing Without Consent (Risky) The Service Provider reserves the right to share Client data with third parties without additional notice or consent. 10",
+      "full_clause_text": "Data Sharing Without Consent (Risky) The Service Provider reserves the right to share Client data with third parties without additional notice or consent. 10",
+      "risk_classification": "non-risky",
+      "confidence_percentage": 99.52,
+      "risk_score": 0
+    },
+    {
+      "clause_number": 11,
+      "clause_text": "No Refund Under Any Condition (Risky) All fees are non-refundable under any circumstances, including service dissatisfaction or technical failures. 11",
+      "full_clause_text": "No Refund Under Any Condition (Risky) All fees are non-refundable under any circumstances, including service dissatisfaction or technical failures. 11",
+      "risk_classification": "non-risky",
+      "confidence_percentage": 99.18,
+      "risk_score": 0
+    },
+    {
+      "clause_number": 12,
+      "clause_text": "Auto-Renewal Without Consent (Risky) This Agreement will automatically renew every 12 months unless canceled by the Service Provider, with or without Client’s consent.",
+      "full_clause_text": "Auto-Renewal Without Consent (Risky) This Agreement will automatically renew every 12 months unless canceled by the Service Provider, with or without Client’s consent.",
+      "risk_classification": "non-risky",
+      "confidence_percentage": 99.57,
+      "risk_score": 0
+    }
+  ]
+}
