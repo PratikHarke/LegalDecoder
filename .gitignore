@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Uploads and temporary files
+backend/uploads/*
+backend/analysis/*
+backend/output/*
+
+# Large model files (optional)
+*.bin
+*.safetensors
